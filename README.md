@@ -64,3 +64,9 @@
 ---
 
 ⚡ *Engineering at the hardware level. Thinking at the system level.*
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavisha-git/kavisha-git/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
