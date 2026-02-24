@@ -36,7 +36,7 @@
 - Microcontroller-based embedded logic  
 - Real-time control implementation  
 
-### 🎨 Wedakl.lk – UI/UX Designer
+### 🎨 Wedak.lk – UI/UX Designer
 - Designed clean and intuitive user interfaces  
 - Created structured user flows  
 - Focused on usability & clarity  
