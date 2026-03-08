@@ -54,6 +54,12 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavisha-git/kavisha-git/main/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ## 📫 Connect With Me
 
@@ -65,9 +71,4 @@
 
 ⚡ *Engineering at the hardware level. Thinking at the system level.*
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kavisha-git/kavisha-git/main/github-contribution-grid-snake-dark.svg" />
-</p>
 
