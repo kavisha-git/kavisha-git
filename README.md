@@ -68,6 +68,6 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kavisha-git/kavisha-git/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/kavisha-git/kavisha-git/main/github-contribution-grid-snake-dark.svg" />
 </p>
 
